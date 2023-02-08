@@ -95,4 +95,4 @@ El resultado se documentará en un nuevo archivo de *Estado de seguridad 2*
 
 A partir del *Plan de seguridad* y el *Estado de seguridad 2*, determina si se deben añadir modificaciones al plan
 de seguridad según el proceso de cambios.
-
+![NotFound](./resources/images/control-changes.png)
