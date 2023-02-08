@@ -62,9 +62,14 @@ El entorno debe tener
     - 2GB RAM
     - 20GB HHD
     - Conectado al dominio como administrador
-- 1 Ubuntu Server con servicios vulnerbales
+- 1 Ubuntu Server
     - 1 GB RAM
     - 10GB HHD
+    - Servicios vulnerables
+        - vsftp
+        - mysql-server
+        - openssh
+        - apache
 - 1 Kali para operaciones ofensivas 
     - 1 GB RAM
     - 10GB HHD
