@@ -42,7 +42,7 @@ Todo debe estar en un mismo documento y debe tener, como mínimo, las siguientes
     - Windows Server
     - Linux
 
-Pueden tomar como guia para la elaboración de estos documentos los [benchmarks](path/to/files) del repositorio
+Pueden tomar como guia para la elaboración de estos documentos los [benchmarks](./resources/benchmarks) del repositorio
 
 # Implementación de la red empresarial bastionada usando GNS3
 
