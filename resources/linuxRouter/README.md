@@ -19,7 +19,6 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 iptables -t nat -A POSTROUTING -o eth1 -j MASQUERADE
 iptables -A FORWARD -i eth1 -o eth0 -m state --state RELATED,ESTABLISHED -j ACCEPT
 iptables -A FORWARD -i eth0 -o eth1 -j ACCEPT
-route add default gw 192.168.0.1 eth0
 ```
 
 First command enables port forwarding. The next one configures NAT at postrouting level on eth0.
