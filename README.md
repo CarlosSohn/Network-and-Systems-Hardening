@@ -53,7 +53,7 @@ El entorno debe tener
     - 2GB RAM
     - 20GB HHD
     - AD y DNS
-    - 12 usuarios
+    - 10 usuarios
         - 1 Administrador
         - 3 Cobranza
         - 3 Ventas
@@ -74,8 +74,11 @@ El entorno debe tener
     - 1 GB RAM
     - 10GB HHD
 - 1 OpenVAS para operaciones de análisis
-- 9 máquinas VNC
+- 9 máquinas VPC
 - Otros dispositivos necesarios para la seguridad de la red
+    - Routers
+    - Switches
+    - Firewall
 
 Una vez instalado el entorno, se debe realizar el siguiente análisis
 
