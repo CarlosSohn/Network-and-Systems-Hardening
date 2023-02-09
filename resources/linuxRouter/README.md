@@ -2,7 +2,9 @@
 This router uses the Dockerfile to create an Ubuntu image with iptables.
 It can be used in a simple network like this
 
-![notFound](../images/linux-router.png)
+<p align="center">
+  <img src="../images/linux-router.png" />
+</p>
 
 In this example, it is assumed the following interface configuration
 
