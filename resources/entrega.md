@@ -5,7 +5,7 @@
 	- Cisco / Cisco Wizard
 3. Grupo C: Manu, Xavi, Danilo 
 	- - GNS3 / Router con docker, imagen PFSense
-## Grupo D: Javi, Marc
+4. Grupo D: Javi, Marc
 
 # Formato de entrega
 A más tardar el día 10/03/2023 se debe entregar un archivo "EquipocX.zip" (donde "X" es la letra del equipo que les corresponda) con los elementos y caracteristicas sugeridas que se indican a continuación
