@@ -12,7 +12,7 @@ PFsense
 
 # Formato de entrega
 A más tardar el día 10/03/2023 se debe entregar un archivo "EquipocX.zip" (donde "X" es la letra del equipo que les corresponda) con los elementos y caracteristicas sugeridas que se indican a continuación
-1. Un archivo llamado `indicaciones.txt` con las indicaciones para resolver el reto. Estructura recomendada
+1. Un archivo llamado `indicaciones.pdf` con las indicaciones para resolver el reto. Estructura recomendada
 	- **Introducción**: Una breve párrafo indicando la descripción del problema
 	- **Configuracion previa**: Serie de instrucciones para poder usar el entorno donde se realizará la prueba. Estas instrucciones deben organizarse en puntos que sean facilmente ejecutables y deben servir para que el usuario pueda comenzar a trabajar de inmediato en la resolución del problema.
 	- **Pruebas/Flags**: Un listado de pruebas o flags que se deben realizar para comprobar que el reto se ha terminado satisfactoriamente. Ejemplos de ello serían: _el ping a 10.100.10.2 no debería recibir respuesta desde 172.0.0.1_, _el equipo X no debería acceder a la VLAN 1_, _Todos los equipos de la red interna deben tener conexión a internet_, etc. Se podrían incluir capturas de pantalla en caso de que sea necesario o, bien, crear 
