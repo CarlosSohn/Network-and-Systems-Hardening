@@ -1,13 +1,10 @@
-# Notas del profesor
-## Grupo A: Ambar, Derick, Pol (Trabajando)
-Router GNS3
-
-## Grupo B: Iñaki, Mustafa, Andres
-cisco
-
-## Grupo C: Manu, Xavi, Danilo (Trabajando)
-PFsense
-
+# Grupos
+1. Grupo A: Ambar, Derick, Pol 
+	- GNS3 / Router con docker, imagen ubuntu
+2. Grupo B: Iñaki, Mustafa, Andres
+	- Cisco / Cisco Wizard
+3. Grupo C: Manu, Xavi, Danilo 
+	- - GNS3 / Router con docker, imagen PFSense
 ## Grupo D: Javi, Marc
 
 # Formato de entrega
