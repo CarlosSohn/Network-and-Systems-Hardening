@@ -17,7 +17,8 @@ A más tardar el día 10/03/2023 se debe entregar un archivo "EquipocX.zip" (don
 	- **Configuracion previa**: Serie de instrucciones para poder usar el entorno donde se realizará la prueba. Estas instrucciones deben organizarse en puntos que sean facilmente ejecutables y deben servir para que el usuario pueda comenzar a trabajar de inmediato en la resolución del problema.
 	- **Pruebas/Flags**: Un listado de pruebas o flags que se deben realizar para comprobar que el reto se ha terminado satisfactoriamente. Ejemplos de ello serían: _el ping a 10.100.10.2 no debería recibir respuesta desde 172.0.0.1_, _el equipo X no debería acceder a la VLAN 1_, _Todos los equipos de la red interna deben tener conexión a internet_, etc. Se podrían incluir capturas de pantalla en caso de que sea necesario o, bien, crear 
 	- **Entrega**: Instrucciones sobre cómo hacer la entrega. Por ejemplo, se debe indicar si se debe entregar un documento con capturas, texto plano de la configuración de iptables, comandos ejecutados, etc. 
-	- **Tabla de puntuación**: Por cada prueba o flag que hayan definido, se debe crear una tabla de puntuación. Por ejemplo
+	- **Tabla de puntuación**: Por cada prueba o flag que hayan definido, se debe crear una tabla de puntuación. Por ejemplo:
+
 | Flag | Puntuación |
 | ---- | ---------- |
 | Configuración de VLANs | 1 punto |
