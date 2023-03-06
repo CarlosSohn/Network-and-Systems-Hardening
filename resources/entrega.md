@@ -4,7 +4,7 @@
 2. Grupo B: Iñaki, Mustafa, Andres
 	- Cisco / Cisco Wizard
 3. Grupo C: Manu, Xavi, Danilo 
-	- - GNS3 / Router con docker, imagen PFSense
+	- GNS3 / Router con docker, imagen PFSense
 4. Grupo D: Javi, Marc
 
 # Formato de entrega
